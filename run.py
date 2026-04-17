@@ -1,3 +1,3 @@
 import example
 
-example.my_function()
+Code_Cyber.my_function()
