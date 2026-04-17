@@ -1,3 +1,3 @@
 import Code_Cyber
 
-Code_Cyber.so.function()
+Code_Cyber.my_function()
