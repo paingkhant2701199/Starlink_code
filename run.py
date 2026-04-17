@@ -1,3 +1,3 @@
 import Code_Cyber
 
-Code_Cyber.my_function()
+Code_Cyber.main()
