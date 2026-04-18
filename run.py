@@ -1,2 +1,5 @@
 import Code_Cyber
-Code_Cyber.main()
+
+if __name__ == "__main__":
+    Code_Cyber.main()
+  
